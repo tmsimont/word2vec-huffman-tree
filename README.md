@@ -18,7 +18,7 @@ I just copy/paste these function callbacks to the bottom of `script.js` to view 
 
 The goal is to create a picture of "memory" that looks like this:
 
-[!memory picture](https://raw.githubusercontent.com/tmsimont/word2vec-huffman-tree/master/screenshot.png)
+![memory picture](https://raw.githubusercontent.com/tmsimont/word2vec-huffman-tree/master/screenshot.png)
 
 And then animate the changes.
 
