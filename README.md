@@ -16,4 +16,10 @@ Again this is mostly the same thing as `main.c`, but I added a bunch of JavaScri
 
 I just copy/paste these function callbacks to the bottom of `script.js` to view the results.
 
-You can then fire up `anim.html` to watch an animation of the tree creation. Note that this has in now way been optimized for vocabularies with more than 8 unique words...
+The goal is to create a picture of "memory" that looks like this:
+
+[!memory picture](https://raw.githubusercontent.com/tmsimont/word2vec-huffman-tree/master/screenshot.png)
+
+And then animate the changes.
+
+The animation is in `anim.html`. Note that this has in now way been optimized for vocabularies with more than 8 unique words...
