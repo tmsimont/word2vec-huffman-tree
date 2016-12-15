@@ -1,0 +1,48 @@
+#stage table {
+	margin: 0 auto;
+	border-collapse:collapse;
+}
+#stage table td {
+	text-align:right;
+	padding-right:5px;
+}
+#stage table td.mem {
+	border: 1px solid #ccc;
+	width:30px;
+	height:30px;
+	padding:0;
+	text-align:center;
+}
+#stage table td.ext {
+	background:#e1eeef;
+}
+#stage table td.active {
+	/*background:#A9CED1;
+	border-color:#A9CED1;*/
+	/*color:#456669;*/
+	color:#64898C;
+	font-weight:bold;
+}
+#stage table td.lbl {
+	border:none;
+	background:none;
+	color:#456669;
+	font-size:11px;
+}
+#stage table td.ptr {
+	border:none;
+	background:none;
+	border-left:1px dashed #A9CED1;
+}
+
+#stage #controls {
+	max-width:540px;
+	margin: 0 auto;
+	text-align:center;
+}
+#stage #controls a {
+	display:inline-block;
+	margin:0 10px;
+	color: #64898C;
+	font-size:11px;
+}
